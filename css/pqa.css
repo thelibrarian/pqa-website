@@ -44,6 +44,8 @@ div.content p {
 }
 
 div.navigation {
+  font-size: 10px;
+  padding-top: 40px;
   background-color: #CCC;
   width: 144px;
   float: left;
@@ -51,24 +53,18 @@ div.navigation {
   padding-bottom: 2000px;
 }
 
-ul#navmenu {
-  list-style-type: none;
-  font-size: 10px;
+div.navigation p {
   padding-left: 1em;
-  margin-top: 40px;
-}
-
-ul#navmenu li {
   margin-top: 1.5em;
   margin-bottom: 1.5em;
 }
 
-ul#navmenu a {
+div.navigation a {
   color: #7A1B40;
   text-decoration: none;
   text-transform: uppercase;
 }
 
-ul#navmenu a:hover {
+div.navigation a:hover {
   color: #999;
 }
