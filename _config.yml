@@ -1,0 +1,7 @@
+# Site settings
+title: Personal Qualities Assessment
+email: david.powis@newcastle.edu.au
+description: > # this means to ignore newlines until "baseurl:"
+  Personal Qualities Assessment (PQA) - World leading research into Personal Qualities
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.pqa.net.au" # the base hostname & protocol for your site
