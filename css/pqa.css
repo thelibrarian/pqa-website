@@ -5,6 +5,10 @@ body {
   background-color: #003366;
 }
 
+.head {
+  text-align: center;
+}
+
 .pqa {
 	font-style: italic;
 	font-weight: bolder;
@@ -48,19 +52,8 @@ div.content h3 {
 }
 
 div.navigation {
-  font-size: 10px;
-  padding-top: 40px;
-  background-color: #CCC;
-  width: 144px;
-  float: left;
-  margin-bottom: -8000px;
-  padding-bottom: 8000px;
-}
-
-div.navigation p {
-  padding-left: 1em;
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
+  margin-top: 10px;
+  text-align: center;
 }
 
 div.navigation a {
