@@ -39,6 +39,11 @@ div#content h3 {
   margin-left: 1em;
 }
 
+div#content ul, ol {
+  margin-left: 2em;
+  margin-right: 3em;
+}
+
 div.navigation {
   margin-top: 10px;
   text-align: center;
