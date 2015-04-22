@@ -73,3 +73,11 @@ p#copyright {
   font-style: italic;
   text-align: center;
 }
+
+div#test-name-pop {
+  float: right;
+  font-size: 110%;
+  color: #7A1B40;
+  text-align: right;
+  font-weight: bold;
+}
