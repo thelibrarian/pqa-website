@@ -44,12 +44,20 @@ div.navigation {
   text-align: center;
 }
 
-div.navigation a {
-  color: #7A1B40;
-  text-decoration: none;
-  text-transform: uppercase;
+ul.navigation {
+  list-style-type: none;
+  margin-top: 3px;
 }
 
-div.navigation a:hover {
+.navigation a {
+  color: #7A1B40;
+  text-decoration: none;
+}
+
+.navigation a:hover {
   color: #999;
+}
+
+div.navigation a {
+  text-transform: uppercase;
 }
