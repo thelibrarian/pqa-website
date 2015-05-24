@@ -31,17 +31,17 @@ div#content {
 }
 
 div#content p {
-  margin-left: 2em;
-  margin-right: 2em;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 div#content h3 {
-  margin-left: 1em;
+  margin-left: 1.5em;
 }
 
 div#content ul, ol {
-  margin-left: 2em;
-  margin-right: 3em;
+  margin-left: 1em;
+  margin-right: 2em;
 }
 
 div.navigation {
@@ -80,4 +80,5 @@ div#test-name-pop {
   color: #7A1B40;
   text-align: right;
   font-weight: bold;
+  border: 1px solid #AAA;
 }
