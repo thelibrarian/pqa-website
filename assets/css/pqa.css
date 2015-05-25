@@ -81,4 +81,5 @@ div#test-name-pop {
   text-align: right;
   font-weight: bold;
   border: 1px solid #AAA;
+  margin-left: 1em;
 }
