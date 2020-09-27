@@ -41,6 +41,7 @@ div#content h1 {
 }
 
 div#content h3 {
+  color: #663333;
   margin-left: 1.5em;
 }
 
@@ -79,12 +80,7 @@ p#copyright {
   text-align: center;
 }
 
-div#test-name-pop {
-  float: right;
-  font-size: 110%;
-  color: #7A1B40;
-  text-align: right;
+.test-name {
   font-weight: bold;
-  border: 1px solid #AAA;
-  margin-left: 1em;
+  color: #663333;
 }
