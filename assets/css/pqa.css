@@ -88,3 +88,8 @@ p#copyright {
 p.reply {
   padding-left: 3em;
 }
+
+p.faqq {
+  font-weight: bold;
+  font-style: italic;
+}
