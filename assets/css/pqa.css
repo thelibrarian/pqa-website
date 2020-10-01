@@ -84,3 +84,7 @@ p#copyright {
   font-weight: bold;
   color: #663333;
 }
+
+p.reply {
+  padding-left: 3em;
+}
